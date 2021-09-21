@@ -1,6 +1,7 @@
 package com.fyking.springcloud;
 
 
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
 public class HelloSpring {
 
@@ -11,6 +12,7 @@ public class HelloSpring {
         System.out.println("hot-flix的测试合并第一步");
         System.out.println("测试hot-flix conflict");
         System.out.println("测试hot-flix conflict 2");
+        System.out.println("我是白痴 2021 9 21 15:58");
     }
 
 }

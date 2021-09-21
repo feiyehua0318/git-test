@@ -8,6 +8,7 @@ public class HelloSpring {
         System.out.println("你真好");
         System.out.println("第二次测试");
         System.out.println("第三次提交测试");
+        System.out.println("hot-flix的测试合并第一步");
     }
 
 }
